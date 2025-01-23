@@ -1,0 +1,10 @@
+# TODO update these dependencies
+dgl==2.4.0
+matplotlib
+networkx
+numpy<2.0.0
+pillow
+plotly
+scikit-learn
+spektral
+torch==2.1.2
